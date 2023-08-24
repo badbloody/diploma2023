@@ -1,5 +1,7 @@
 # diploma2023
-All of the code used in my diploma thesis for neural style transfer, based on the paper [**Meta Networks for Neural Style Transfer**](https://arxiv.org/abs/1709.04111), Shen et al.
+All of the code in the form of Jupyter Notebooks that is used in my diploma thesis for neural style transfer, based on the paper [**Meta Networks for Neural Style Transfer**](https://arxiv.org/abs/1709.04111), Shen et al.
+
++ Get the style images [here](https://github.com/badbloody/diplomskiSlike)
 
 * The original unchanged model can be found in [original_model.ipynb](https://github.com/badbloody/diploma2023/blob/main/original_model.ipynb) 
 * My model can be found and trained with the notebook [my_method.ipynb](https://github.com/badbloody/diploma2023/blob/main/my_method.ipynb) 
